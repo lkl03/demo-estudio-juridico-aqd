@@ -1,2 +1,7 @@
-# demo-estudio-juridico-aqd
-Demo web para ESTUDIO JURIDICO AQD — diseñada por eterlab.
+# ESTUDIO JURIDICO AQD
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
